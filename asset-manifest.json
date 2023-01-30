@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/omnitrix/static/css/main.4e753f92.css",
+    "main.js": "/omnitrix/static/js/main.179f8914.js",
+    "static/js/787.477eaeb0.chunk.js": "/omnitrix/static/js/787.477eaeb0.chunk.js",
+    "static/media/Seleccion.mp3": "/omnitrix/static/media/Seleccion.9eb4906fbfbb3ed9124b.mp3",
+    "index.html": "/omnitrix/index.html",
+    "main.4e753f92.css.map": "/omnitrix/static/css/main.4e753f92.css.map",
+    "main.179f8914.js.map": "/omnitrix/static/js/main.179f8914.js.map",
+    "787.477eaeb0.chunk.js.map": "/omnitrix/static/js/787.477eaeb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e753f92.css",
+    "static/js/main.179f8914.js"
+  ]
+}
