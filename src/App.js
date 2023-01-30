@@ -3,11 +3,6 @@ import Omnitrix from './Omnitrix';
 import React, { useEffect} from "react";
 
 function App() {
-  
-  useEffect(() => {
-    document.title = "Omnitrix";
-  }, []);
-
   return (
 
     <div className="App">
